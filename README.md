@@ -15,7 +15,7 @@ Criar uma aplicação para adicionar projetos e tarefas por meio do CRUD em Node
 1. Clone este projeto
 2. Abra o terminal e dentro da pasta do projeto, utilize o comando `yarn` para instalar todas as dependências
 3. Abra o Insomnia para simular todas as rotas definidas abaixo (clique aqui para instalar - [Insomnia](https://insomnia.rest))
-4. Baixe o arquivo `_requests_insomnia.json` e importe-o para o Insomnia. Assim conseguirá realizar as rotas do projeto.
+4. Baixe o arquivo _`requests_insomnia.json`_ e importe-o para o Insomnia. Assim conseguirá realizar as rotas do projeto.
 
 ### Rotas
 
